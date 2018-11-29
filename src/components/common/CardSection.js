@@ -14,8 +14,7 @@ const styles = {
     borderBottomWidth: 1,
     padding: 5,
     backgroundColor: '#fff',
-    // Bu içindeki bütün componentleri sola yapıştırır, full width olmalarını otomatik olarak engeller, hemen kaldıralım
-    borderColor: '#ddd',
+    borderColor: '#ddd'
   }
 };
 
